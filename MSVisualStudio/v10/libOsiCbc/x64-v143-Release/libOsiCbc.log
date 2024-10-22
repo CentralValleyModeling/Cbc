@@ -1,0 +1,11 @@
+﻿  OsiCbcSolverInterface.cpp
+C:\dev_cbc\coinbrew\Cbc\src\OsiCbc\OsiCbcSolverInterface.hpp(304,46): warning C4309: 'default argument': truncation of constant value
+  (compiling source file '../../../src/OsiCbc/OsiCbcSolverInterface.cpp')
+  
+C:\dev_cbc\coinbrew\Cbc\src\OsiCbc\OsiCbcSolverInterface.hpp(313,17): warning C4309: 'default argument': truncation of constant value
+  (compiling source file '../../../src/OsiCbc/OsiCbcSolverInterface.cpp')
+  
+C:\dev_cbc\coinbrew\Cbc\src\OsiCbc\OsiCbcSolverInterface.hpp(335,17): warning C4309: 'default argument': truncation of constant value
+  (compiling source file '../../../src/OsiCbc/OsiCbcSolverInterface.cpp')
+  
+  libOsiCbc.vcxproj -> C:\dev_cbc\coinbrew\Cbc\MSVisualStudio\v10\x64-v143-Release\libOsiCbc.lib

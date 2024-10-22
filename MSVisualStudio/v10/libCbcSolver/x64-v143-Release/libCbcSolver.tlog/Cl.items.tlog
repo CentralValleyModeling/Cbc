@@ -1,0 +1,8 @@
+C:\dev_cbc\coinbrew\Cbc\src\CbcCbcParam.cpp;C:\dev_cbc\coinbrew\Cbc\MSVisualStudio\v10\libCbcSolver\x64-v143-Release\CbcCbcParam.obj
+C:\dev_cbc\coinbrew\Cbc\src\CbcLinked.cpp;C:\dev_cbc\coinbrew\Cbc\MSVisualStudio\v10\libCbcSolver\x64-v143-Release\CbcLinked.obj
+C:\dev_cbc\coinbrew\Cbc\src\CbcLinkedUtils.cpp;C:\dev_cbc\coinbrew\Cbc\MSVisualStudio\v10\libCbcSolver\x64-v143-Release\CbcLinkedUtils.obj
+C:\dev_cbc\coinbrew\Cbc\src\CbcSolver.cpp;C:\dev_cbc\coinbrew\Cbc\MSVisualStudio\v10\libCbcSolver\x64-v143-Release\CbcSolver.obj
+C:\dev_cbc\coinbrew\Cbc\src\CbcSolverAnalyze.cpp;C:\dev_cbc\coinbrew\Cbc\MSVisualStudio\v10\libCbcSolver\x64-v143-Release\CbcSolverAnalyze.obj
+C:\dev_cbc\coinbrew\Cbc\src\CbcSolverExpandKnapsack.cpp;C:\dev_cbc\coinbrew\Cbc\MSVisualStudio\v10\libCbcSolver\x64-v143-Release\CbcSolverExpandKnapsack.obj
+C:\dev_cbc\coinbrew\Cbc\src\CbcSolverHeuristics.cpp;C:\dev_cbc\coinbrew\Cbc\MSVisualStudio\v10\libCbcSolver\x64-v143-Release\CbcSolverHeuristics.obj
+C:\dev_cbc\coinbrew\Cbc\src\unitTestClp.cpp;C:\dev_cbc\coinbrew\Cbc\MSVisualStudio\v10\libCbcSolver\x64-v143-Release\unitTestClp.obj

@@ -1,0 +1,19 @@
+﻿  CbcCbcParam.cpp
+  CbcLinked.cpp
+  CbcLinkedUtils.cpp
+  CbcSolver.cpp
+C:\dev_cbc\coinbrew\Cbc\src\CbcSolver.cpp(8043,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\dev_cbc\coinbrew\Cbc\src\CbcSolver.cpp(8183,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\dev_cbc\coinbrew\Cbc\src\CbcSolver.cpp(8357,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\dev_cbc\coinbrew\Cbc\src\CbcSolver.cpp(8358,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CbcSolverAnalyze.cpp
+  CbcSolverExpandKnapsack.cpp
+  CbcSolverHeuristics.cpp
+  unitTestClp.cpp
+C:\dev_cbc\coinbrew\Cbc\src\unitTestClp.cpp(549,30): warning C4805: '==': unsafe mix of type '_Ty' and type 'bool' in operation
+C:\dev_cbc\coinbrew\Cbc\src\unitTestClp.cpp(549,30): warning C4805:         with
+C:\dev_cbc\coinbrew\Cbc\src\unitTestClp.cpp(549,30): warning C4805:         [
+C:\dev_cbc\coinbrew\Cbc\src\unitTestClp.cpp(549,30): warning C4805:             _Ty=int
+C:\dev_cbc\coinbrew\Cbc\src\unitTestClp.cpp(549,30): warning C4805:         ]
+  Generating Code...
+  libCbcSolver.vcxproj -> C:\dev_cbc\coinbrew\Cbc\MSVisualStudio\v10\x64-v143-Release\libCbcSolver.lib

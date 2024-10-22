@@ -1,0 +1,95 @@
+﻿  CbcBranchAllDifferent.cpp
+  CbcBranchCut.cpp
+  CbcBranchDecision.cpp
+  CbcBranchDefaultDecision.cpp
+  CbcBranchDynamic.cpp
+  CbcBranchingObject.cpp
+  CbcBranchLotsize.cpp
+  CbcBranchToFixLots.cpp
+  CbcClique.cpp
+  CbcCompareDefault.cpp
+  CbcCompareDepth.cpp
+  CbcCompareEstimate.cpp
+  CbcCompareObjective.cpp
+  CbcConsequence.cpp
+  CbcCountRowCut.cpp
+  CbcCutGenerator.cpp
+  CbcCutModifier.cpp
+  CbcCutSubsetModifier.cpp
+  CbcDummyBranchingObject.cpp
+  CbcEventHandler.cpp
+  Generating Code...
+  Compiling...
+  CbcFathom.cpp
+  CbcFathomDynamicProgramming.cpp
+  CbcFixVariable.cpp
+  CbcFollowOn.cpp
+  CbcFullNodeInfo.cpp
+  CbcGeneral.cpp
+  CbcGeneralDepth.cpp
+  CbcHeuristic.cpp
+  CbcHeuristicDINS.cpp
+  CbcHeuristicDive.cpp
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicDive.cpp(688,31): warning C4018: '>': signed/unsigned mismatch
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicDive.cpp(723,31): warning C4018: '>': signed/unsigned mismatch
+  CbcHeuristicDiveCoefficient.cpp
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicDiveCoefficient.cpp(127,30): warning C4018: '>': signed/unsigned mismatch
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicDiveCoefficient.cpp(129,37): warning C4018: '<': signed/unsigned mismatch
+  CbcHeuristicDiveFractional.cpp
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicDiveFractional.cpp(111,30): warning C4018: '>': signed/unsigned mismatch
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicDiveFractional.cpp(113,37): warning C4018: '<': signed/unsigned mismatch
+  CbcHeuristicDiveGuided.cpp
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicDiveGuided.cpp(122,30): warning C4018: '>': signed/unsigned mismatch
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicDiveGuided.cpp(124,37): warning C4018: '<': signed/unsigned mismatch
+  CbcHeuristicDiveLineSearch.cpp
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicDiveLineSearch.cpp(119,30): warning C4018: '>': signed/unsigned mismatch
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicDiveLineSearch.cpp(121,37): warning C4018: '<': signed/unsigned mismatch
+  CbcHeuristicDivePseudoCost.cpp
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicDivePseudoCost.cpp(140,30): warning C4018: '>': signed/unsigned mismatch
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicDivePseudoCost.cpp(142,37): warning C4018: '<': signed/unsigned mismatch
+  CbcHeuristicDiveVectorLength.cpp
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicDiveVectorLength.cpp(128,30): warning C4018: '>': signed/unsigned mismatch
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicDiveVectorLength.cpp(130,37): warning C4018: '<': signed/unsigned mismatch
+  CbcHeuristicDW.cpp
+  CbcHeuristicFPump.cpp
+  CbcHeuristicGreedy.cpp
+  CbcHeuristicLocal.cpp
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicLocal.cpp(1205,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\dev_cbc\coinbrew\Cbc\src\CbcHeuristicLocal.cpp(1206,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  CbcHeuristicPivotAndFix.cpp
+  CbcHeuristicRandRound.cpp
+  CbcHeuristicRENS.cpp
+  CbcHeuristicRINS.cpp
+  CbcHeuristicVND.cpp
+  CbcMessage.cpp
+  CbcMipStartIO.cpp
+  CbcModel.cpp
+  CbcNode.cpp
+  CbcNodeInfo.cpp
+  CbcNWay.cpp
+  CbcObject.cpp
+  CbcObjectUpdateData.cpp
+  CbcParam.cpp
+C:\dev_cbc\coinbrew\Cbc\src\CbcParam.cpp(169,31): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\dev_cbc\coinbrew\Cbc\src\CbcParam.cpp(174,24): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\dev_cbc\coinbrew\Cbc\src\CbcParam.cpp(222,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\dev_cbc\coinbrew\Cbc\src\CbcParam.cpp(231,34): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\dev_cbc\coinbrew\Cbc\src\CbcParam.cpp(235,27): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\dev_cbc\coinbrew\Cbc\src\CbcParam.cpp(238,41): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  CbcPartialNodeInfo.cpp
+  CbcSimpleInteger.cpp
+  CbcSimpleIntegerDynamicPseudoCost.cpp
+  CbcSimpleIntegerPseudoCost.cpp
+  CbcSOS.cpp
+  CbcStatistics.cpp
+  Generating Code...
+  Compiling...
+  CbcStrategy.cpp
+  CbcSubProblem.cpp
+  CbcThread.cpp
+  CbcTree.cpp
+  CbcTreeLocal.cpp
+  Generating Code...
+  libCbc.vcxproj -> C:\dev_cbc\coinbrew\Cbc\MSVisualStudio\v10\x64-v143-Release\libCbc.lib

@@ -1,0 +1,1 @@
+C:\dev_cbc\coinbrew\Cbc\MSVisualStudio\v10\libCbcSolver\x64-v143-Release\libCbcSolver.vcxproj.AssemblyReference.cache
